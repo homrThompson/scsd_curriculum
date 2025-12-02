@@ -1,102 +1,61 @@
-sterlhing cooper: school of design curriculum 
+## sterlhing cooper: school of design curriculum 
 
-// open school resources:
+#### open school resources:
 
 *   woodshop \[ basement \]
-    
 *   makerspace \[ [rutgers](https://makerspace.rutgers.edu) \]
-    
 *   workspace \[ libraries, cafes, public spaces \]
-    
 *   class resources
-    
     *   github: [https://github.com/homrThompson](https://github.com/homrThompson)
-        
         *   code repository
-            
         *   product wiki
-            
         *   resource locator (who has tools?)
-            
     *   contact
-        
         *   email
-            
         *   signal (desktop + mobile)
-            
-        *   phone (emergency only)
-            
+        *   phone (emergency only)            
     *   website: \[ tba \] public-facing
-        
         *   social 
-            
         *   youtube
             
 
-// student arc (11 weeks (breakneck speed)):
+#### student arc (11 weeks (breakneck speed)):
 
-theory (1 week)
+- theory (1 week)
+    - history
+    - internet diagram (ad tech)
+    - light theory
+    - product development
+- programming (1-2 weeks)
+- electronics + wiring (1-2 weeks)
+- prototyping (3-4 weeks)
+- capstone (2 weeks)
 
-history
-
-internet diagram (ad tech)
-
-light theory
-
-product development
-
-programming (1-2 weeks)
-
-electronics + wiring (1-2 weeks)
-
-prototyping (3-4 weeks)
-
-capstone (2 weeks)
-
-// theory + hard skills (craft):
+#### theory + hard skills (craft):
 
 *   software and programming
-    
     *   object-oriented
-        
     *   functional
-        
 *   hardware and electronics
-    
     *   arduino
-        
     *   wiring + soldering
-        
     *   electronics
-        
         *   resistors
-            
         *   switches
-            
 *   occult sciences
-    
     *   color theory
-        
     *   light theory
-        
     *   star wars
-        
 *   product design
-    
     *   product mgmt
-        
     *   woodworking 
-        
     *   3D printing
-        
     *   technical drawing, prototyping, speccing/scoping
-        
     *   tinkercad, autocad
-        
     *   project mgmt \[ epics => stories => tasks \]
         
 
-// curriculum
+#### curriculum
 
 ⏰ week 1:
 
