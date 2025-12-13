@@ -58,7 +58,6 @@
 ### curriculum
 
 ⏰ week 1:
-
 introduce the history of technology, math, time. learn evolution of the computer and the internet. introduce concepts behind product development separate from information technology (packaging design etc.).
 
 *   [time](https://courses.newschool.edu/courses/PUFY1040/)
@@ -111,7 +110,6 @@ introduce the history of technology, math, time. learn evolution of the computer
 
 
 ⏰ week 2:
-
 understand interplay between hardware and software. receive first components (LEDs, arduino board, wires) and purchase core soldering tools (iron, solder, paste, etc.). introduce occult concepts and warnings.
 
 *   hardware
@@ -154,7 +152,6 @@ understand interplay between hardware and software. receive first components (LE
         
 
 ⏰ week 3:
-
 introduce python programming language. upload code to arduino board. blink light and set colors. introduce as many components \[ sensors, I/O, switches potentiometer, etc. \] as time allows. use “jumper wires” in lieu of soldered connections 
 
 *   programming core concepts
@@ -181,7 +178,6 @@ resources:
     
 
 ⏰ week 4:
-
 shift focus to adroit skills: soldering, wiring, molding. continue exercising with coding practice to switch gears while working with materials. create working artifact no matter how simple.
 
 *   small project using:
@@ -200,8 +196,7 @@ shift focus to adroit skills: soldering, wiring, molding. continue exercising wi
 
 
 ⏰ weeks 5 - 7 (prototype development):
-
-apply theory/craft learned from first month. schedule time in necessary work spaces. 
+apply theory/craft learned from first month. schedule time in necessary work spaces. set working aggreement/cadence.
 
 *   planning
     *   sketching 
@@ -221,7 +216,6 @@ apply theory/craft learned from first month. schedule time in necessary work spa
 
 
 ⏰ weeks 8 + 9 (product development):
-
 go to market (capstone). produce finalized version of product with detailed instructions on how to reproduce and mass produce.
 
 *   use lessons learned in prototyping phase to create finalized product    
