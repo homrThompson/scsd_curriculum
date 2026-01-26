@@ -1,9 +1,10 @@
-## sterlhing cooper: school of design curriculum 
+## sterlhing cooper: school of design curriculum
 
 ### open school resources:
 
 *   woodshop \[ basement \]
 *   makerspace \[ [rutgers](https://makerspace.rutgers.edu) \]
+*   apex surplus \[ [LA](https://apexsurplus.com/) \]
 *   workspace \[ libraries, cafes, public spaces \]
 *   class resources
     *   github: [https://github.com/homrThompson](https://github.com/homrThompson)
@@ -13,11 +14,11 @@
     *   contact
         *   email
         *   signal (desktop + mobile)
-        *   phone (emergency only)            
+        *   phone (emergency only)
     *   website: \[ tba \] public-facing
-        *   social 
+        *   social
         *   youtube
-            
+
 
 ### student arc (11 weeks (breakneck speed)):
 
@@ -48,12 +49,12 @@
     *   star wars
 *   product design
     *   product mgmt
-    *   woodworking 
+    *   woodworking
     *   3D printing
     *   technical drawing, prototyping, speccing/scoping
     *   tinkercad, autocad
     *   project mgmt \[ epics => stories => tasks \]
-        
+
 
 ### curriculum
 
@@ -69,7 +70,7 @@ introduce the history of technology, math, time. learn evolution of the computer
     *   invention of 0 \[ zero, zilch, zed, nil, null \] (628 AD)
     *   base 10, base 16, binary
 *   birth of the computer
-    *   [ada lovelace](https://en.wikipedia.org/wiki/Ada_Lovelace) (1815-1852) and charles babbage ([analytical engine](https://en.wikipedia.org/wiki/Analytical_Engine)) 
+    *   [ada lovelace](https://en.wikipedia.org/wiki/Ada_Lovelace) (1815-1852) and charles babbage ([analytical engine](https://en.wikipedia.org/wiki/Analytical_Engine))
         *   life and times
             *   family
             *   occult sciences: mesmerism + numerology
@@ -82,7 +83,7 @@ introduce the history of technology, math, time. learn evolution of the computer
             *   [solid state storage](https://en.wikipedia.org/wiki/Solid-state_storage)
         *   random access memory (RAM)
         *   CPU
-            *   hyperthreading/overclocking 
+            *   hyperthreading/overclocking
             *   multi-core processors
         *   GPU
         *   modem
@@ -90,7 +91,7 @@ introduce the history of technology, math, time. learn evolution of the computer
     *   project with contributions from U.S. military + private telecom, bell labs
     *   TCP/IP ([internet protocol suite](https://en.wikipedia.org/wiki/Internet_protocol_suite))
     *   [spacejam.com](http://spacejam.com) => google search/ad tech (1998) => AI/web3
-*   product development 
+*   product development
     *   ideation
         *   sketchpad
             *   rough measurements
@@ -103,7 +104,7 @@ introduce the history of technology, math, time. learn evolution of the computer
         *   where to source materials
     *   product
         *   defining specifications
-        *   end product materials 
+        *   end product materials
         *   mass production
     *   marketing magic
         *   [don draper](https://youtu.be/8SsnkXH2mQY?si=c30eCZBxERCYh03l) rant
@@ -113,7 +114,10 @@ introduce the history of technology, math, time. learn evolution of the computer
 understand interplay between hardware and software. receive first components (LEDs, arduino board, wires) and purchase core soldering tools (iron, solder, paste, etc.). introduce occult concepts and warnings.
 
 *   hardware
-    *   [adafruit](https://learn.adafruit.com/guides/latest)
+    * electronics 101
+        * resistor, capacitor, inductor, transformer, diode, transistor
+        * integrated circuit, processor/microcontroller
+    * [adafruit](https://learn.adafruit.com/guides/latest)
         *   who?
         *   what?
         *   where?
@@ -121,13 +125,13 @@ understand interplay between hardware and software. receive first components (LE
         *   open source (hardware and software)
         *   boards
         *   programming language (C++ also compatible (bell labs))
-    *   LEDs, wires, and other components  
+    *   LEDs, wires, and other components
         *   marketplaces
             *   adafruit
             *   sparkfun
             *   amazon.. planet amazon
 *   software
-    *   [evolution](https://en.wikipedia.org/wiki/History_of_programming_languages) of programming languages 
+    *   [evolution](https://en.wikipedia.org/wiki/History_of_programming_languages) of programming languages
         *   assembly, FORTRAN, COBOL
         *   C, SQL
         *   C++, java, MATLAB, ada
@@ -149,10 +153,10 @@ understand interplay between hardware and software. receive first components (LE
     *   tonics/potions, perfumes, spirits
     *   cosmic crap (astrology, horoscopes, and other novelties)
     *   limit time/exposure— dark arts endless mostly not worth knowing
-        
+
 
 ⏰ week 3:
-introduce python programming language. upload code to arduino board. blink light and set colors. introduce as many components \[ sensors, I/O, switches potentiometer, etc. \] as time allows. use “jumper wires” in lieu of soldered connections 
+introduce python programming language. upload code to arduino board. blink light and set colors. introduce as many components \[ sensors, I/O, switches potentiometer, etc. \] as time allows. use “jumper wires” in lieu of soldered connections
 
 *   programming core concepts
     *   variables, data types
@@ -175,9 +179,10 @@ resources:
 *   [MDN](https://developer.mozilla.org/en-US/) (mozilla developer network)
 *   [python crash course](https://www.coursera.org/learn/python-crash-course) (google)
 *   [arduino](https://docs.arduino.cc) docs
-    
 
-⏰ week 4:
+
+⏰ week 4 + 5:
+
 shift focus to adroit skills: soldering, wiring, molding. continue exercising with coding practice to switch gears while working with materials. create working artifact no matter how simple.
 
 *   small project using:
@@ -195,17 +200,18 @@ shift focus to adroit skills: soldering, wiring, molding. continue exercising wi
     *   reddit
 
 
-⏰ weeks 5 - 7 (prototype development):
-apply theory/craft learned from first month. schedule time in necessary work spaces. set working aggreement/cadence.
+⏰ weeks 6 - 8 (prototype development):
+
+apply theory/craft learned from first month. schedule time in necessary work spaces. also plan for scheduling time
 
 *   planning
-    *   sketching 
+    *   sketching
     *   requirements gathering/speccing
     *   tinkercad [autodesk](https://www.tinkercad.com/dashboard)
     *   break out assembly into epics/stories
     *   proactive about scheduling time at facilities
 *   work modes
-    *   team agreement 
+    *   team agreement
     *   pair programming
     *   professional models (google, [spotify](https://youtu.be/Yvfz4HGtoPc?si=eR9e5xkYUMEDv6nR))
     *   version control (source code mgmt): [git](https://git-scm.com)
@@ -215,11 +221,12 @@ apply theory/craft learned from first month. schedule time in necessary work spa
     *   use epics/stories from planning phase
 
 
-⏰ weeks 8 + 9 (product development):
+⏰ weeks 9 + 10 (product development):
+
 go to market (capstone). produce finalized version of product with detailed instructions on how to reproduce and mass produce.
 
-*   use lessons learned in prototyping phase to create finalized product    
-    *   source finer/more durable materials (factor in costs) 
+*   use lessons learned in prototyping phase to create finalized product
+    *   source finer/more durable materials (factor in costs)
     *   as close to perfect as possible, don’t go nuts
     *   plans for grander showcasing.. capstone
 *   use industry standard for communicating product specifications
